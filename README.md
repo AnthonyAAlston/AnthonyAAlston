@@ -12,9 +12,8 @@
 ## 🔧 Projects
 
 - [📡 PacketTracerProject](https://github.com/AnthonyAAlston/PacketTracerProject):  
-  A basic client-server network setup using Cisco Packet Tracer to simulate LAN design, static IPs, and device configuration.
-
+  Creating both a Peer to Peer Network and a basic client-server network setup using Cisco Packet Tracer to simulate LAN design, static IPs, and device configuration.
 ---
+
 [![](https://visitcount.itsvg.in/api?id=AnthonyAAlston&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
