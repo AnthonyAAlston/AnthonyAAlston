@@ -9,10 +9,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-## 🔧 Projects
+## 🛠️ Projects
 
-- [📡 PacketTracerProject](https://github.com/AnthonyAAlston/PacketTracerProject):  
-  Creating a Peer to Peer Network using Cisco Packet Tracer to simulate LAN design, static IPs, and device configuration.
+- [PacketTracerProject](https://github.com/AnthonyAAlston/PacketTracerProject): Peer-to-Peer and Client-Server network simulations using Cisco Packet Tracer.
+- [ClientServerNetwork](https://github.com/AnthonyAAlston/ClientServerNetwork): Client-Server model with DHCP service configured using a central server.
+  
 ---
 
 [![](https://visitcount.itsvg.in/api?id=AnthonyAAlston&icon=0&color=0)](https://visitcount.itsvg.in)
