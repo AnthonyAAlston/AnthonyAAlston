@@ -4,10 +4,9 @@
 
 ## 🛠️ Projects
 
--[Configuring IP Addresses and Routing](https://github.com/AnthonyAAlston/Configuring-IP-Addresses-and-Routing): Cisco Packet Tracer lab demonstrating router interface setup, RIP v2 routing configuration, and network connectivity testing.
+- [Configuring IP Addresses and Routing](https://github.com/AnthonyAAlston/Configuring-IP-Addresses-and-Routing): Cisco Packet Tracer lab demonstrating router interface setup, RIP v2 routing configuration, and network connectivity testing.
 - [ClientServerNetwork](https://github.com/AnthonyAAlston/ClientServerNetwork): Client-Server model with DHCP service configured using a central server.
-- - [Peer2PeerProject](https://github.com/AnthonyAAlston/PacketTracerProject): Peer-to-Peer and Client-Server network simulations using Cisco Packet Tracer.
-
+- [Peer2PeerProject](https://github.com/AnthonyAAlston/PacketTracerProject): Peer-to-Peer and Client-Server network simulations using Cisco Packet Tracer.
   
 ---
 
