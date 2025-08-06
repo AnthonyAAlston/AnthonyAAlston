@@ -4,7 +4,7 @@
 
 ## 🛠️ Projects
 
-- [PacketTracerProject](https://github.com/AnthonyAAlston/PacketTracerProject): Peer-to-Peer and Client-Server network simulations using Cisco Packet Tracer.
+- [Peer2PeerProject](https://github.com/AnthonyAAlston/PacketTracerProject): Peer-to-Peer and Client-Server network simulations using Cisco Packet Tracer.
 - [ClientServerNetwork](https://github.com/AnthonyAAlston/ClientServerNetwork): Client-Server model with DHCP service configured using a central server.
   
 ---
