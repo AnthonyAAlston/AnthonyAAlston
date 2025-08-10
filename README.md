@@ -4,7 +4,7 @@ About Me<br><br>Hi! I’m Anthony Alston — a Junior at **UT Dallas** majoring 
 
 ## 🛠️ Projects
 
-- [**Installing and Configuring Wireless LAN Access and Security**](https://github.com/AnthonyAAlston/Wireless-Network) : Configured and secured a wireless LAN in Cisco Packet Tracer using a Linksys WRT300N. Implemented WAN/LAN addressing, enabled DHCP, applied WPA2-Personal security, disabled SSID broadcast, manually connected a wireless client, and verified end-to-end connectivity.
+- [**Installing and Configuring Wireless LAN Access and Security**](https://github.com/AnthonyAAlston/Wireless-Network) : Set up a secure wireless network in Cisco Packet Tracer with a Linksys WRT300N router, added IP addresses, enabled DHCP, secured Wi-Fi with WPA2, hid the SSID, connected a wireless PC, and tested connectivity.
 - [Configuring IP Addresses and Routing](https://github.com/AnthonyAAlston/Configuring-IP-Addresses-and-Routing): Cisco Packet Tracer lab demonstrating router interface setup, RIP v2 routing configuration, and network connectivity testing.
 - [ClientServerNetwork](https://github.com/AnthonyAAlston/ClientServerNetwork): Client-Server model with DHCP service configured using a central server.
 - [Peer2PeerProject](https://github.com/AnthonyAAlston/PacketTracerProject): Peer-to-Peer network simulations using Cisco Packet Tracer.
