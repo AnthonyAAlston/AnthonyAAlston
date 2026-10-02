@@ -1,5 +1,20 @@
 ## Anthony Alston's Cybersecurity Portfolio:
-About Me<br><br>Hi! I’m Anthony Alston — a Junior at **UT Dallas** majoring in **Information Technology and Systems**. I’m actively seeking my first cybersecurity internship where I can apply my growing technical skills and passion for security in a real-world environment.<br><br>I’m especially interested in:<br><br> Cybersecurity fundamentals & threat analysis<br> Exploring the intersection of **machine learning** and security<br> Learning more about networking, ethical hacking, and secure coding practices<br> Always up for learning new tools and technologies<br><br>Outside of tech, I play college soccer and thrive in team environments that value discipline, strategy, and adaptability — traits I bring both on the field and into my projects.<br><br>I’m currently working on Packet Tracer labs, Python practice, and learning Git/GitHub. Open to connecting and learning from others in the field!<br><br><br> Goals<br><br> Land a cybersecurity internship<br> Get hands-on with SIEM tools, CTFs, or security automation<br> Contribute to open-source or personal security projects<br> Learn more about how AI/ML can support cybersecurity<br><br>
+About Me<br><br>## About Me
+
+I'm Anthony Alston, a junior at the University of Texas at Dallas studying Information Technology and Systems with a focus on cybersecurity.
+
+I'm building hands-on experience through cybersecurity, networking, and security monitoring projects while preparing for a career as a Cybersecurity Analyst.
+
+- Interested in Cybersecurity, Threat Analysis, and Network Security
+- Building hands-on experience with SIEM, security monitoring, and vulnerability analysis
+- Experienced with networking concepts through Cisco Packet Tracer labs
+- Developing projects using tools such as Wazuh, Linux, AWS, and GitHub
+- Continuously learning about ethical hacking, cloud security, and secure systems
+- Currently seeking cybersecurity internship opportunities
+
+### Current Focus
+
+Building practical cybersecurity projects that demonstrate my ability to configure, monitor, test, and secure real-world systems.
 
 
 ## 🛠️ Projects
