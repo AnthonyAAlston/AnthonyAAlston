@@ -4,9 +4,66 @@
 
 I'm an Information Technology and Systems student at the University of Texas at Dallas focused on building practical experience in cybersecurity, network security, threat detection, and security analysis.
 
-My work focuses on applying security concepts through hands-on environments rather than only studying them in the classroom. I've worked with SIEM infrastructure, Linux virtual machines, network security labs, security monitoring, Cisco networking, and cybersecurity risk analysis.
+My projects focus on applying cybersecurity concepts through hands-on environments, including SIEM monitoring, AI-assisted security analysis, network security, Linux systems, and Cisco networking.
 
-I'm currently building my cybersecurity portfolio and preparing for opportunities in cybersecurity, IT audit, security operations, GRC, and technology risk.
+I'm currently expanding my cybersecurity portfolio while pursuing opportunities in cybersecurity, IT audit, security operations, GRC, and technology risk.
+
+---
+
+## Featured Projects
+
+### [Wazuh AI SOC Lab](https://github.com/AnthonyAAlston/Wazuh-AI-SOC-Lab)
+
+Built a virtualized Security Operations Center (SOC) lab using Wazuh and Ubuntu Server to gain hands-on experience with SIEM deployment, security monitoring, and threat analysis.
+
+- Deployed and configured a Wazuh security monitoring environment
+- Worked with Linux services and Wazuh components
+- Verified manager, indexer, and cluster health
+- Troubleshot configuration, connectivity, and authentication issues
+- Built experience with SIEM infrastructure and SOC workflows
+
+**Skills:** Wazuh, SIEM, SOC, Ubuntu Server, Linux, VMware, Security Monitoring
+
+---
+
+### [Stadium Network Security Lab](https://github.com/AnthonyAAlston/Stadium-Network-Security-Lab)
+
+Designed a simulated stadium network in Cisco Packet Tracer with an emphasis on network segmentation, secure architecture, routing, and connectivity.
+
+- Designed a multi-segment network environment
+- Configured network devices and IP addressing
+- Implemented routing between network segments
+- Tested connectivity and troubleshot network configurations
+- Applied networking concepts to a realistic large-venue environment
+
+**Skills:** Cisco Packet Tracer, Network Security, Network Segmentation, Routing, TCP/IP, Troubleshooting
+
+---
+
+### [Secure Wireless LAN](https://github.com/AnthonyAAlston/Configuring-Wireless-LAN-Access-and-Security)
+
+Configured and secured a wireless network using Cisco Packet Tracer and a simulated Linksys WRT300N wireless router.
+
+- Configured WAN and LAN addressing
+- Implemented DHCP for network clients
+- Secured wireless access using WPA2-Personal with AES encryption
+- Disabled SSID broadcasting and manually connected clients
+- Verified connectivity through network testing
+
+**Skills:** WLAN Security, WPA2, AES, DHCP, TCP/IP, Cisco Packet Tracer
+
+---
+
+### [IP Addressing & RIP Routing](https://github.com/AnthonyAAlston/Configuring-IP-Addresses-and-Routing)
+
+Built and configured a routed network using Cisco Packet Tracer with multiple subnets and dynamic routing.
+
+- Configured router interfaces and IP addressing
+- Implemented RIPv2 routing
+- Connected multiple networks through router-to-router communication
+- Verified end-to-end connectivity using ping tests
+
+**Skills:** Cisco IOS, RIPv2, IPv4, Subnetting, Routing, Network Troubleshooting
 
 ---
 
@@ -19,37 +76,13 @@ I'm currently building my cybersecurity portfolio and preparing for opportunitie
 - Incident Response Fundamentals
 - Cloud Security
 - Security Controls & GRC
-- AI/ML Applications in Cybersecurity
-
----
-
-## Featured Projects
-
-### Wazuh SIEM & Security Monitoring Lab
-Built a virtualized cybersecurity monitoring environment using Ubuntu Server and Wazuh. Configured and troubleshot Wazuh components, verified service and cluster health, managed configuration files, and established a foundation for security event monitoring and analysis.
-
-**Skills:** Wazuh, SIEM, Ubuntu Server, Linux, VMware, Security Monitoring
-
-### Stadium Network Security Lab
-Designed a simulated stadium network environment in Cisco Packet Tracer with an emphasis on segmentation, secure network architecture, device configuration, and connectivity testing.
-
-**Skills:** Cisco Packet Tracer, Network Security, IP Addressing, Routing, Network Segmentation
-
-### Secure Wireless Network
-Configured and secured a wireless LAN using Cisco Packet Tracer, including WAN/LAN addressing, DHCP, WPA2-Personal with AES encryption, wireless client configuration, and connectivity verification.
-
-**Skills:** WLAN Security, WPA2, DHCP, TCP/IP, Cisco Packet Tracer
-
-### Routing & Network Configuration
-Configured router interfaces, IP addressing, and RIPv2 routing between multiple networks and verified end-to-end communication through connectivity testing.
-
-**Skills:** Cisco IOS, Routing, RIPv2, TCP/IP, Troubleshooting
+- AI Applications in Cybersecurity
 
 ---
 
 ## Technical Skills
 
-**Security:** Wazuh, SIEM Fundamentals, Threat Analysis, Vulnerability Assessment, Risk Assessment, Access Control, Security Controls
+**Security:** Wazuh, SIEM Fundamentals, Security Monitoring, Threat Analysis, Vulnerability Assessment, Risk Assessment, Access Control
 
 **Networking:** Cisco Packet Tracer, TCP/IP, IPv4, Subnetting, DHCP, RIPv2, ACLs, WLAN Security
 
@@ -65,7 +98,7 @@ Configured router interfaces, IP addressing, and RIPv2 routing between multiple 
 
 ## Currently Developing
 
-I'm continuing to expand my portfolio with projects focused on:
+I'm continuing to expand my hands-on experience in:
 
 - SIEM detection and security event analysis
 - Incident investigation
@@ -75,24 +108,25 @@ I'm continuing to expand my portfolio with projects focused on:
 - Cloud security
 - AI-assisted cybersecurity
 
-My goal is to continue moving from simulated networking environments into increasingly realistic security operations and defensive security projects.
+My goal is to continue progressing from foundational networking labs into increasingly realistic defensive security and SOC environments.
 
 ---
 
 ## Education
 
 **University of Texas at Dallas**  
-Information Technology & Systems
+B.S. Information Technology & Systems
 
-Relevant areas of study include cybersecurity, networking, cloud computing, database systems, systems analysis, and information technology.
+Areas of study include cybersecurity, networking, cloud computing, database systems, systems analysis, and information technology.
 
 ---
 
 ## Connect With Me
 
-**LinkedIn:** [Anthony Alston](https://www.linkedin.com/in/anthonyaalston/)  
+**LinkedIn:** [Anthony Alston](https://www.linkedin.com/in/anthonyaalston/)
+
 **GitHub:** [AnthonyAAlston](https://github.com/AnthonyAAlston)
 
 ---
 
-> Building practical cybersecurity experience one project at a time.
+*Building practical cybersecurity experience through hands-on projects and continuous learning.*
