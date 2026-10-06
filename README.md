@@ -1,37 +1,98 @@
-## Anthony Alston's Cybersecurity Portfolio:
-About Me<br><br>## About Me
+# Anthony Alston
 
-I'm Anthony Alston, a junior at the University of Texas at Dallas studying Information Technology and Systems with a focus on cybersecurity.
+### Cybersecurity | Information Technology & Systems | UT Dallas
 
-I'm building hands-on experience through cybersecurity, networking, and security monitoring projects while preparing for a career as a Cybersecurity Analyst.
+I'm an Information Technology and Systems student at the University of Texas at Dallas focused on building practical experience in cybersecurity, network security, threat detection, and security analysis.
 
-- Interested in Cybersecurity, Threat Analysis, and Network Security
-- Building hands-on experience with SIEM, security monitoring, and vulnerability analysis
-- Experienced with networking concepts through Cisco Packet Tracer labs
-- Developing projects using tools such as Wazuh, Linux, AWS, and GitHub
-- Continuously learning about ethical hacking, cloud security, and secure systems
-- Currently seeking cybersecurity internship opportunities
+My work focuses on applying security concepts through hands-on environments rather than only studying them in the classroom. I've worked with SIEM infrastructure, Linux virtual machines, network security labs, security monitoring, Cisco networking, and cybersecurity risk analysis.
 
-### Current Focus
+I'm currently building my cybersecurity portfolio and preparing for opportunities in cybersecurity, IT audit, security operations, GRC, and technology risk.
 
-Building practical cybersecurity projects that demonstrate my ability to configure, monitor, test, and secure real-world systems.
-
-
-## 🛠️ Projects
-
-- [**Installing and Configuring Wireless LAN Access and Security**](https://github.com/AnthonyAAlston/Wireless-Network) : Set up a secure wireless network in Cisco Packet Tracer with a Linksys WRT300N router, added IP addresses, enabled DHCP, secured Wi-Fi with WPA2, hid the SSID, connected a wireless PC, and tested connectivity.
-- [Configuring IP Addresses and Routing](https://github.com/AnthonyAAlston/Configuring-IP-Addresses-and-Routing): Cisco Packet Tracer lab demonstrating router interface setup, RIP v2 routing configuration, and network connectivity testing.
-- [ClientServerNetwork](https://github.com/AnthonyAAlston/ClientServerNetwork): Client-Server model with DHCP service configured using a central server.
-- [Peer2PeerProject](https://github.com/AnthonyAAlston/PacketTracerProject): Peer-to-Peer network simulations using Cisco Packet Tracer.
-  
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/anthonyaalston/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tosha.alston@gmail.com) 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+## Cybersecurity Focus
 
+- Security Operations & Threat Analysis
+- SIEM Monitoring & Log Analysis
+- Network Security
+- Vulnerability & Risk Assessment
+- Incident Response Fundamentals
+- Cloud Security
+- Security Controls & GRC
+- AI/ML Applications in Cybersecurity
 
+---
 
-[![](https://visitcount.itsvg.in/api?id=AnthonyAAlston&icon=0&color=0)](https://visitcount.itsvg.in)
+## Featured Projects
 
+### Wazuh SIEM & Security Monitoring Lab
+Built a virtualized cybersecurity monitoring environment using Ubuntu Server and Wazuh. Configured and troubleshot Wazuh components, verified service and cluster health, managed configuration files, and established a foundation for security event monitoring and analysis.
+
+**Skills:** Wazuh, SIEM, Ubuntu Server, Linux, VMware, Security Monitoring
+
+### Stadium Network Security Lab
+Designed a simulated stadium network environment in Cisco Packet Tracer with an emphasis on segmentation, secure network architecture, device configuration, and connectivity testing.
+
+**Skills:** Cisco Packet Tracer, Network Security, IP Addressing, Routing, Network Segmentation
+
+### Secure Wireless Network
+Configured and secured a wireless LAN using Cisco Packet Tracer, including WAN/LAN addressing, DHCP, WPA2-Personal with AES encryption, wireless client configuration, and connectivity verification.
+
+**Skills:** WLAN Security, WPA2, DHCP, TCP/IP, Cisco Packet Tracer
+
+### Routing & Network Configuration
+Configured router interfaces, IP addressing, and RIPv2 routing between multiple networks and verified end-to-end communication through connectivity testing.
+
+**Skills:** Cisco IOS, Routing, RIPv2, TCP/IP, Troubleshooting
+
+---
+
+## Technical Skills
+
+**Security:** Wazuh, SIEM Fundamentals, Threat Analysis, Vulnerability Assessment, Risk Assessment, Access Control, Security Controls
+
+**Networking:** Cisco Packet Tracer, TCP/IP, IPv4, Subnetting, DHCP, RIPv2, ACLs, WLAN Security
+
+**Systems:** Linux, Ubuntu Server, Windows, VMware
+
+**Cloud:** AWS Fundamentals, Azure Fundamentals
+
+**Programming & Scripting:** Python, PowerShell, Java, SQL
+
+**Tools:** Git, GitHub, Wireshark, Cisco IOS
+
+---
+
+## Currently Developing
+
+I'm continuing to expand my portfolio with projects focused on:
+
+- SIEM detection and security event analysis
+- Incident investigation
+- Vulnerability management
+- Network defense
+- Security automation
+- Cloud security
+- AI-assisted cybersecurity
+
+My goal is to continue moving from simulated networking environments into increasingly realistic security operations and defensive security projects.
+
+---
+
+## Education
+
+**University of Texas at Dallas**  
+Information Technology & Systems
+
+Relevant areas of study include cybersecurity, networking, cloud computing, database systems, systems analysis, and information technology.
+
+---
+
+## Connect With Me
+
+**LinkedIn:** [Anthony Alston](https://www.linkedin.com/in/anthonyaalston/)  
+**GitHub:** [AnthonyAAlston](https://github.com/AnthonyAAlston)
+
+---
+
+> Building practical cybersecurity experience one project at a time.
